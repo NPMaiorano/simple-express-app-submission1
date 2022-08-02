@@ -1,0 +1,21 @@
+
+#mainLogo{ 
+   width: 50%;
+   height: 20%;
+}
+header{
+    color: rgb(255,255,255);
+    background-color: rgb(192,12,12);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+section{
+    background-color: rgb(255,209,86);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+body{
+    background-color: rgb(245,106,51);
+}
